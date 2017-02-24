@@ -12,3 +12,5 @@ It is absolutely WIP now but you can check it out anyway (if my PC is on and the
 I've backed up the DB so feel free to play.
 
 If anyone actually reads this and has any comments feel free to chat: https://t.me/nagellack5c
+
+EDIT: I am stopping improving this. Now the bot runs in the cloud (Pythonanywhere) so you must be able to reach it whenever you want.
