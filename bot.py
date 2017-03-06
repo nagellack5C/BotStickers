@@ -76,8 +76,7 @@ def echo_all(message):
 try:
     bot.polling(none_stop=True)
 
-    # ConnectionError and ReadTimeout because of possible timout of the requests library
-    # TypeError for moviepy errors
+    # ConnectionError and ReadTimeout because of possible timeout of the requests library
     # maybe there are others, therefore Exception
 
 except Exception as e:
